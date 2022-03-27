@@ -18,7 +18,7 @@ a {
   font-family: 'Newsreader', serif;
   /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
   font-size: 15px;
-  line-height: 16px;
+  line-height: 1.2;
 }
 
 strong {
@@ -32,14 +32,12 @@ heading {
   font-family: 'Newsreader', serif;
   /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
   font-size: 22.5px;
-  line-height: 24px;
 }
 
 papertitle {
   font-family: 'Newsreader', serif;
   /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
   font-size: 15px;
-  line-height: 16px;
   font-weight: 400
 }
 
@@ -47,7 +45,6 @@ name {
   font-family: 'Newsreader', serif;
   /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
   font-size: 30px;
-  line-height: 32px;
 }
 
 .one {
