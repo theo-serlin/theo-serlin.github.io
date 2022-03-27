@@ -17,32 +17,33 @@ p,
 a {
   font-family: 'Newsreader', serif;
   /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
-  font-size: 15px;
+  font-size: 16px;
+  line-height: 1.2;
 }
 
 strong {
   font-family: 'Newsreader', serif;
   /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
-  font-size: 15px;
+  font-size: 16px;
 }
 
 heading {
   font-family: 'Newsreader', serif;
   /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
-  font-size: 22.5px;
+  font-size: 24px;
 }
 
 papertitle {
   font-family: 'Newsreader', serif;
   /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 400
 }
 
 name {
   font-family: 'Newsreader', serif;
   /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
-  font-size: 30px;
+  font-size: 32px;
 }
 
 .one {
